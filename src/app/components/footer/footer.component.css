@@ -1,0 +1,24 @@
+hr {
+  color: #10767b;
+}
+img {
+  width: 179px;
+  height: 150px;
+  object-fit: contain;
+}
+.fa {
+  padding: 10px;
+}
+p,
+h4 {
+  color: #10767b;
+}
+.main {
+  padding-top: 50px;
+}
+@media screen and (min-width: 656px) {
+  footer {
+    width: 810px;
+    float: left;
+  }
+}

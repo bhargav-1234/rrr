@@ -1,0 +1,43 @@
+
+.top{
+margin: auto;
+width: 100%;
+height:80px;
+background:rgba(0, 0, 0, 0.09);
+}
+.top img{
+    margin:9px;
+    height:70px;
+    width: 71.5px;
+    
+}
+.navbar a{
+    padding: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+    color: #0a595d;
+}
+.low a{
+    width: 55px;
+    height: 23px;
+    font-family: OpenSans;
+    font-size: 17px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: right;
+    color: #0a595d;
+    text-decoration: none;
+    padding: 40px;
+}
+.Rectangle {
+    width: 169px;
+    height: 46px;
+    border-radius: 5px;
+    border: solid 2px #c9cdd5;
+    background-color: #0a595d;
+    
+  }

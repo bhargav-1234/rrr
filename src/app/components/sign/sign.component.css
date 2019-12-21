@@ -1,0 +1,17 @@
+h2{
+    line-height: 1.92;
+    font-family: OpenSans;
+}
+.Rectangle-3 {
+    width: 260px;
+    height: 45px;
+    border-radius: 2px;
+    border: solid 0.5px #d1d1d1;
+}
+.Rectangle {
+    width: 150px;
+    height: 50px;
+    border-radius: 2px;
+    background-color: #10767b;
+  }
+  

@@ -1,0 +1,42 @@
+ h1 {
+    width: 618px;
+    height: 49px;
+    font-size: 36px;
+    font-weight: 600;
+    color: #0e2d53;
+    
+  }
+  
+   a {
+    color: #10767b;
+  }
+  img {
+    width: 600px;
+    height: 411px;
+    object-fit: contain;
+  }
+  h4{
+   
+    line-height: 2;
+    letter-spacing: 1px;
+    color: #0e2d53;
+  }
+  
+  h4 {
+    font-family: ZapfDingbatsITC;
+    font-weight: normal;
+  }
+  .Assosiate-2{
+      padding-top: 80px;
+  }
+  h4{
+   
+    line-height: 2;
+    letter-spacing: 1px;
+    color: #0e2d53;
+  }
+  
+ h4 {
+    font-family: ZapfDingbatsITC;
+    font-weight: normal;
+ }
