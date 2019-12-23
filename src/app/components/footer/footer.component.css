@@ -16,9 +16,16 @@ h4 {
 .main {
   padding-top: 50px;
 }
-@media screen and (min-width: 656px) {
-  footer {
-    width: 810px;
-    float: left;
+@media screen and (max-width: 1279px) {
+  .footer h4 {
+  text-align: center;
+    
   }
+  .footer p{
+    text-align: center;
+  }
+  .footer icon{
+    text-align: center !important; 
+  }
+  
 }
